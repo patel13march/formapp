@@ -1,0 +1,2 @@
+input,textarea{border-radius:.5rem;padding:10px;margin:15px;width:30%;box-sizing:border-box;border:2px solid grey}.menu_style{width:100%;display:flex;justify-content:space-around;background-color:#4af34a;padding:10px;color:#fff}a{text-decoration:none;font-weight:bolder;font-size:large}a:hover{color:#f55115}a.active:after,a:hover:after{-webkit-text-decoration:#dc143c;text-decoration:#dc143c}a:focus,a:hover{background:none;color:#c00}.App{text-align:center}
+/*# sourceMappingURL=main.80dc3ad1.chunk.css.map */
